@@ -345,6 +345,36 @@
     "Mes_Ano": "Junho/2026"
   },
   {
+    "NF": "1144384",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "035.789.355-73",
+    "Razao": "EVA OLIVEIRA SANTOS ALVES",
+    "CIDADE": "Ibicoara",
+    "Quantidade": 12,
+    "Vlr_Total": 76.2,
+    "Vendedor": "88",
+    "Nome_Vendedor": "JOELSON MIRANDA",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100092",
+    "Nome_Produto": "COCO DO VALE COCO RALADO DESIDRATADO 100G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1144384",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "035.789.355-73",
+    "Razao": "EVA OLIVEIRA SANTOS ALVES",
+    "CIDADE": "Ibicoara",
+    "Quantidade": 24,
+    "Vlr_Total": 64.56,
+    "Vendedor": "88",
+    "Nome_Vendedor": "JOELSON MIRANDA",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1137668",
     "Grupo": "Vendas",
     "Cnpj_CPF": "035.789.355-73",
@@ -2310,13 +2340,13 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1136174",
+    "NF": "1130413",
     "Grupo": "Vendas",
     "Cnpj_CPF": "07.099.113/0001-35",
     "Razao": "J.L. PIMENTEL COMERCIAL DE ALIMENTOS LTDA",
     "CIDADE": "Ipira",
-    "Quantidade": 3,
-    "Vlr_Total": 19.05,
+    "Quantidade": 6,
+    "Vlr_Total": 38.1,
     "Vendedor": "2",
     "Nome_Vendedor": "CAMILA FERREIRA",
     "Supervisor": "DANILO",
@@ -2325,13 +2355,13 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1130413",
+    "NF": "1136174",
     "Grupo": "Vendas",
     "Cnpj_CPF": "07.099.113/0001-35",
     "Razao": "J.L. PIMENTEL COMERCIAL DE ALIMENTOS LTDA",
     "CIDADE": "Ipira",
-    "Quantidade": 6,
-    "Vlr_Total": 38.1,
+    "Quantidade": 3,
+    "Vlr_Total": 19.05,
     "Vendedor": "2",
     "Nome_Vendedor": "CAMILA FERREIRA",
     "Supervisor": "DANILO",
@@ -6105,21 +6135,6 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "1129223",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "51.471.186/0001-06",
-    "Razao": "SR'S ATACADISTA DE ALIMENTOS LTDA",
-    "CIDADE": "MAIRI",
-    "Quantidade": 6,
-    "Vlr_Total": 14.94,
-    "Vendedor": "131",
-    "Nome_Vendedor": "EDENILSON FERREIRA",
-    "Supervisor": "LUCAS SILVA",
-    "Codigo_Produto": "100412",
-    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1142277",
     "Grupo": "Vendas",
     "Cnpj_CPF": "51.471.186/0001-06",
@@ -6133,6 +6148,21 @@
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1129223",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "51.471.186/0001-06",
+    "Razao": "SR'S ATACADISTA DE ALIMENTOS LTDA",
+    "CIDADE": "MAIRI",
+    "Quantidade": 6,
+    "Vlr_Total": 14.94,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1140531",
@@ -6162,6 +6192,21 @@
     "Supervisor": "LUCAS SILVA",
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1140525",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "40.547.526/0001-00",
+    "Razao": "CLEIDIANE OLIVEIRA GOMES 85774482588",
+    "CIDADE": "MIGUEL CALMON",
+    "Quantidade": 2,
+    "Vlr_Total": 5.38,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
   },
   {
@@ -6178,21 +6223,6 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
-  },
-  {
-    "NF": "1140525",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "40.547.526/0001-00",
-    "Razao": "CLEIDIANE OLIVEIRA GOMES 85774482588",
-    "CIDADE": "MIGUEL CALMON",
-    "Quantidade": 2,
-    "Vlr_Total": 5.38,
-    "Vendedor": "131",
-    "Nome_Vendedor": "EDENILSON FERREIRA",
-    "Supervisor": "LUCAS SILVA",
-    "Codigo_Produto": "100122",
-    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1123778",
@@ -6525,21 +6555,6 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1123758",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "074.258.015-66",
-    "Razao": "CAROLINA DE ALMEIDA ALVES",
-    "CIDADE": "Mundo Novo",
-    "Quantidade": 12,
-    "Vlr_Total": 34.68,
-    "Vendedor": "131",
-    "Nome_Vendedor": "EDENILSON FERREIRA",
-    "Supervisor": "LUCAS SILVA",
-    "Codigo_Produto": "100122",
-    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1140548",
     "Grupo": "Vendas",
     "Cnpj_CPF": "074.258.015-66",
@@ -6553,6 +6568,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1123758",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "074.258.015-66",
+    "Razao": "CAROLINA DE ALMEIDA ALVES",
+    "CIDADE": "Mundo Novo",
+    "Quantidade": 12,
+    "Vlr_Total": 34.68,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1123758",
@@ -6885,21 +6915,6 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "1123724",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "23.497.543/0001-61",
-    "Razao": "S.MERCADO ALIANÇA LTDA",
-    "CIDADE": "PIRITIBA",
-    "Quantidade": 10,
-    "Vlr_Total": 26.9,
-    "Vendedor": "131",
-    "Nome_Vendedor": "EDENILSON FERREIRA",
-    "Supervisor": "LUCAS SILVA",
-    "Codigo_Produto": "100122",
-    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1140507",
     "Grupo": "Vendas",
     "Cnpj_CPF": "23.497.543/0001-61",
@@ -6913,6 +6928,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1123724",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "23.497.543/0001-61",
+    "Razao": "S.MERCADO ALIANÇA LTDA",
+    "CIDADE": "PIRITIBA",
+    "Quantidade": 10,
+    "Vlr_Total": 26.9,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1123724",
@@ -8385,13 +8415,13 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "1112774",
+    "NF": "1118747",
     "Grupo": "Vendas",
     "Cnpj_CPF": "19.607.541/0001-00",
     "Razao": "OLIVEIRA MERCEARIA - ME",
     "CIDADE": "Inhambupe",
-    "Quantidade": 2,
-    "Vlr_Total": 238.5,
+    "Quantidade": 1,
+    "Vlr_Total": 119.25,
     "Vendedor": "139",
     "Nome_Vendedor": "TADEU SANTOS",
     "Supervisor": "RODRIGO PINHEIRO",
@@ -8400,13 +8430,13 @@
     "Mes_Ano": "Junho/2026"
   },
   {
-    "NF": "1118747",
+    "NF": "1112774",
     "Grupo": "Vendas",
     "Cnpj_CPF": "19.607.541/0001-00",
     "Razao": "OLIVEIRA MERCEARIA - ME",
     "CIDADE": "Inhambupe",
-    "Quantidade": 1,
-    "Vlr_Total": 119.25,
+    "Quantidade": 2,
+    "Vlr_Total": 238.5,
     "Vendedor": "139",
     "Nome_Vendedor": "TADEU SANTOS",
     "Supervisor": "RODRIGO PINHEIRO",
