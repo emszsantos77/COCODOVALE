@@ -90,6 +90,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1149143",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "24.175.506/0001-08",
+    "Razao": "VALBER DOURADO XAVIER - ME",
+    "CIDADE": "BONINAL",
+    "Quantidade": 12,
+    "Vlr_Total": 64.68,
+    "Vendedor": "84",
+    "Nome_Vendedor": "MARIA ELIZABETE",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1126387",
     "Grupo": "Vendas",
     "Cnpj_CPF": "24.175.506/0001-08",
@@ -343,6 +358,21 @@
     "Codigo_Produto": "100037",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 12X500ML",
     "Mes_Ano": "Junho/2026"
+  },
+  {
+    "NF": "1147391",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "37.397.264/0001-30",
+    "Razao": "ROSELI REIS ARRUDA DA SILVA",
+    "CIDADE": "Ibicoara",
+    "Quantidade": 24,
+    "Vlr_Total": 98.16,
+    "Vendedor": "88",
+    "Nome_Vendedor": "JOELSON MIRANDA",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100320",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1144384",
@@ -900,6 +930,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1149471",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "00.194.581/0001-40",
+    "Razao": "ARQUIMEDES MARTINS DOS SANTOS ME",
+    "CIDADE": "PALMEIRAS",
+    "Quantidade": 12,
+    "Vlr_Total": 64.68,
+    "Vendedor": "84",
+    "Nome_Vendedor": "MARIA ELIZABETE",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1122570",
     "Grupo": "Vendas",
     "Cnpj_CPF": "12.809.136/0001-26",
@@ -975,6 +1020,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148375",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "48.525.632/0001-03",
+    "Razao": "RYAN MARTINS DE SOUZA 11762359588",
+    "CIDADE": "PALMEIRAS",
+    "Quantidade": 12,
+    "Vlr_Total": 32.28,
+    "Vendedor": "84",
+    "Nome_Vendedor": "MARIA ELIZABETE",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1141758",
     "Grupo": "Vendas",
     "Cnpj_CPF": "65.629.858/0001-65",
@@ -1005,6 +1065,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148248",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "42.202.655/0001-92",
+    "Razao": "JJM SILVA COMERCIO DE GENEROS E CEREAIS LTDA",
+    "CIDADE": "PIATA",
+    "Quantidade": 12,
+    "Vlr_Total": 69.48,
+    "Vendedor": "107",
+    "Nome_Vendedor": "EVANILSON NOVAIS",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100115",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 100G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1141642",
     "Grupo": "Vendas",
     "Cnpj_CPF": "42.202.655/0001-92",
@@ -1017,6 +1092,21 @@
     "Supervisor": "ANDREIA MEDEIROS",
     "Codigo_Produto": "100115",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 100G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1148248",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "42.202.655/0001-92",
+    "Razao": "JJM SILVA COMERCIO DE GENEROS E CEREAIS LTDA",
+    "CIDADE": "PIATA",
+    "Quantidade": 12,
+    "Vlr_Total": 76.2,
+    "Vendedor": "107",
+    "Nome_Vendedor": "EVANILSON NOVAIS",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100092",
+    "Nome_Produto": "COCO DO VALE COCO RALADO DESIDRATADO 100G",
     "Mes_Ano": "Agosto/2026"
   },
   {
@@ -1078,6 +1168,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148231",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "07.319.846/0001-38",
+    "Razao": "CLAUDEMIRO DE SOUZA PEREIRA NETO LTDA",
+    "CIDADE": "PIATA",
+    "Quantidade": 12,
+    "Vlr_Total": 32.28,
+    "Vendedor": "107",
+    "Nome_Vendedor": "EVANILSON NOVAIS",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1128388",
@@ -1423,6 +1528,21 @@
     "Codigo_Produto": "100320",
     "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1147761",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "03.327.169/0001-49",
+    "Razao": "ELIANA QUEIROZ DA SILVA DE SEABRA - ME",
+    "CIDADE": "Seabra",
+    "Quantidade": 6,
+    "Vlr_Total": 34.74,
+    "Vendedor": "90",
+    "Nome_Vendedor": "LARISSA MENDES",
+    "Supervisor": "ANDREIA MEDEIROS",
+    "Codigo_Produto": "100115",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 100G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1144595",
@@ -1965,6 +2085,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148866",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "36.945.185/0001-54",
+    "Razao": "ROBERT LEITE DA SILVA",
+    "CIDADE": "Boa Vista do Tupim",
+    "Quantidade": 20,
+    "Vlr_Total": 53.8,
+    "Vendedor": "47",
+    "Nome_Vendedor": "HELLEN GOMES",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1129344",
     "Grupo": "Vendas",
     "Cnpj_CPF": "36.945.185/0001-54",
@@ -2190,21 +2325,6 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1121642",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "58.856.122/0001-64",
-    "Razao": "SUPERMERCADO SANDE LTDA",
-    "CIDADE": "BOA NOVA",
-    "Quantidade": 1,
-    "Vlr_Total": 127.79,
-    "Vendedor": "10",
-    "Nome_Vendedor": "HIAN RIBEIRO",
-    "Supervisor": "DANILO",
-    "Codigo_Produto": "100129",
-    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 48X50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1118564",
     "Grupo": "Vendas",
     "Cnpj_CPF": "58.856.122/0001-64",
@@ -2218,6 +2338,21 @@
     "Codigo_Produto": "100129",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 48X50G",
     "Mes_Ano": "Junho/2026"
+  },
+  {
+    "NF": "1121642",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "58.856.122/0001-64",
+    "Razao": "SUPERMERCADO SANDE LTDA",
+    "CIDADE": "BOA NOVA",
+    "Quantidade": 1,
+    "Vlr_Total": 127.79,
+    "Vendedor": "10",
+    "Nome_Vendedor": "HIAN RIBEIRO",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100129",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 48X50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1141902",
@@ -2235,21 +2370,6 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "1124951",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "42.140.687/0001-00",
-    "Razao": "ROSILANGE DE JESUS DOS SANTOS OLIVEIRA",
-    "CIDADE": "IGUAI",
-    "Quantidade": 6,
-    "Vlr_Total": 14.94,
-    "Vendedor": "10",
-    "Nome_Vendedor": "HIAN RIBEIRO",
-    "Supervisor": "DANILO",
-    "Codigo_Produto": "100412",
-    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1145251",
     "Grupo": "Vendas",
     "Cnpj_CPF": "42.140.687/0001-00",
@@ -2263,6 +2383,21 @@
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1124951",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "42.140.687/0001-00",
+    "Razao": "ROSILANGE DE JESUS DOS SANTOS OLIVEIRA",
+    "CIDADE": "IGUAI",
+    "Quantidade": 6,
+    "Vlr_Total": 14.94,
+    "Vendedor": "10",
+    "Nome_Vendedor": "HIAN RIBEIRO",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1124951",
@@ -2700,7 +2835,37 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1147447",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "19.618.419/0001-30",
+    "Razao": "MERCADO PARAGUACU DE IACU EIRELI",
+    "CIDADE": "Iacu",
+    "Quantidade": 2,
+    "Vlr_Total": 4.98,
+    "Vendedor": "2",
+    "Nome_Vendedor": "CAMILA FERREIRA",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1141095",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "31.038.097/0001-55",
+    "Razao": "WENDIS SOUSA COSTA",
+    "CIDADE": "Iacu",
+    "Quantidade": 12,
+    "Vlr_Total": 29.88,
+    "Vendedor": "47",
+    "Nome_Vendedor": "HELLEN GOMES",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1147442",
     "Grupo": "Vendas",
     "Cnpj_CPF": "31.038.097/0001-55",
     "Razao": "WENDIS SOUSA COSTA",
@@ -2880,7 +3045,7 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "0",
+    "NF": "1146602",
     "Grupo": "Vendas",
     "Cnpj_CPF": "05.992.207/0001-03",
     "Razao": "COMERCIAL DE ALIMENTOS M J L EIRELI",
@@ -3013,6 +3178,21 @@
     "Codigo_Produto": "100023",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1146593",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "27.794.559/0002-78",
+    "Razao": "IVAN SUPERMERCADO LTDA",
+    "CIDADE": "Itaberaba",
+    "Quantidade": 48,
+    "Vlr_Total": 119.52,
+    "Vendedor": "2",
+    "Nome_Vendedor": "CAMILA FERREIRA",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1140229",
@@ -3195,21 +3375,6 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1123454",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "031.325.895-35",
-    "Razao": "Pricila de Souza silva",
-    "CIDADE": "Itaberaba",
-    "Quantidade": 12,
-    "Vlr_Total": 29.88,
-    "Vendedor": "47",
-    "Nome_Vendedor": "HELLEN GOMES",
-    "Supervisor": "DANILO",
-    "Codigo_Produto": "100412",
-    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1139909",
     "Grupo": "Vendas",
     "Cnpj_CPF": "031.325.895-35",
@@ -3223,6 +3388,21 @@
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1123454",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "031.325.895-35",
+    "Razao": "Pricila de Souza silva",
+    "CIDADE": "Itaberaba",
+    "Quantidade": 12,
+    "Vlr_Total": 29.88,
+    "Vendedor": "47",
+    "Nome_Vendedor": "HELLEN GOMES",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1111529",
@@ -3268,6 +3448,21 @@
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1149291",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "60.197.842/0001-07",
+    "Razao": "60.197.842 JORGE LUIZ SILVA DOS SANTOS",
+    "CIDADE": "Itaberaba",
+    "Quantidade": 12,
+    "Vlr_Total": 29.88,
+    "Vendedor": "47",
+    "Nome_Vendedor": "HELLEN GOMES",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1126962",
@@ -3450,7 +3645,7 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1130628",
+    "NF": "1128579",
     "Grupo": "Vendas",
     "Cnpj_CPF": "11.780.399/0001-97",
     "Razao": "JULIETA COSME SOUZA SANTOS",
@@ -3465,7 +3660,7 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1128579",
+    "NF": "1130628",
     "Grupo": "Vendas",
     "Cnpj_CPF": "11.780.399/0001-97",
     "Razao": "JULIETA COSME SOUZA SANTOS",
@@ -3807,6 +4002,21 @@
     "Supervisor": "DANILO",
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1147928",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "09.068.261/0001-18",
+    "Razao": "CHARLE RODRIGUES DA SILVA",
+    "CIDADE": "MIRANTE",
+    "Quantidade": 12,
+    "Vlr_Total": 49.08,
+    "Vendedor": "10",
+    "Nome_Vendedor": "HIAN RIBEIRO",
+    "Supervisor": "DANILO",
+    "Codigo_Produto": "100320",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
     "Mes_Ano": "Agosto/2026"
   },
   {
@@ -4515,6 +4725,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1147652",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "15.424.778/0001-03",
+    "Razao": "IVANETE SILVA SOUZA MAGALHAES",
+    "CIDADE": "TANQUE NOVO",
+    "Quantidade": 6,
+    "Vlr_Total": 32.34,
+    "Vendedor": "180",
+    "Nome_Vendedor": "JEAN CARLOS",
+    "Supervisor": "GLEIDSON FIENES",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1140353",
     "Grupo": "Vendas",
     "Cnpj_CPF": "07.821.579/0001-00",
@@ -4650,6 +4875,21 @@
     "Mes_Ano": "Junho/2026"
   },
   {
+    "NF": "1149270",
+    "Grupo": "Dev. Vendas",
+    "Cnpj_CPF": "19.878.331/0001-57",
+    "Razao": "J F O COMERCIO VAREJISTA DE PRODUTO",
+    "CIDADE": "ARACI",
+    "Quantidade": 6,
+    "Vlr_Total": 16.14,
+    "Vendedor": "34",
+    "Nome_Vendedor": "WESCKEY FONTES",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1123490",
     "Grupo": "Dev. Vendas",
     "Cnpj_CPF": "52.332.572/0001-71",
@@ -4678,6 +4918,36 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1147119",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "19.878.331/0001-57",
+    "Razao": "J F O COMERCIO VAREJISTA DE PRODUTO",
+    "CIDADE": "ARACI",
+    "Quantidade": 6,
+    "Vlr_Total": 16.14,
+    "Vendedor": "34",
+    "Nome_Vendedor": "WESCKEY FONTES",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1149271",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "19.878.331/0001-57",
+    "Razao": "J F O COMERCIO VAREJISTA DE PRODUTO",
+    "CIDADE": "ARACI",
+    "Quantidade": 6,
+    "Vlr_Total": 16.14,
+    "Vendedor": "34",
+    "Nome_Vendedor": "WESCKEY FONTES",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1127370",
@@ -4785,6 +5055,21 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
+    "NF": "1147023",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "61.863.614/0002-72",
+    "Razao": "NEW LIDER COMERCIAL DE ALIMENTOS LTDA",
+    "CIDADE": "CONCEICAO DA FEIRA",
+    "Quantidade": 12,
+    "Vlr_Total": 64.68,
+    "Vendedor": "171",
+    "Nome_Vendedor": "DAGMAR SILVA",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1127416",
     "Grupo": "Vendas",
     "Cnpj_CPF": "33.661.533/0001-73",
@@ -4828,6 +5113,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148205",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "20.167.930/0001-41",
+    "Razao": "SUPERMERCADO O BARATEIRO FSA LTDA",
+    "CIDADE": "Feira de Santana",
+    "Quantidade": 12,
+    "Vlr_Total": 32.28,
+    "Vendedor": "122",
+    "Nome_Vendedor": "JULIETE LIMA",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1143224",
@@ -4980,21 +5280,6 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1124028",
-    "Grupo": "Vendas",
-    "Cnpj_CPF": "50.448.758/0001-65",
-    "Razao": "50.448.758 FRANCIS CARLOS DE OLI JUNIOR",
-    "CIDADE": "Feira de Santana",
-    "Quantidade": 12,
-    "Vlr_Total": 64.68,
-    "Vendedor": "171",
-    "Nome_Vendedor": "DAGMAR SILVA",
-    "Supervisor": "JEIZIANE",
-    "Codigo_Produto": "100023",
-    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
-    "Mes_Ano": "Julho/2026"
-  },
-  {
     "NF": "1146359",
     "Grupo": "Vendas",
     "Cnpj_CPF": "50.448.758/0001-65",
@@ -5008,6 +5293,21 @@
     "Codigo_Produto": "100023",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
     "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1124028",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "50.448.758/0001-65",
+    "Razao": "50.448.758 FRANCIS CARLOS DE OLI JUNIOR",
+    "CIDADE": "Feira de Santana",
+    "Quantidade": 12,
+    "Vlr_Total": 64.68,
+    "Vendedor": "171",
+    "Nome_Vendedor": "DAGMAR SILVA",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Julho/2026"
   },
   {
     "NF": "1121798",
@@ -5173,6 +5473,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1149359",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "65.331.240/0001-14",
+    "Razao": "MERCADINHO SAO JOAO DIVINO LTDA",
+    "CIDADE": "Serrinha",
+    "Quantidade": 6,
+    "Vlr_Total": 24.54,
+    "Vendedor": "34",
+    "Nome_Vendedor": "WESCKEY FONTES",
+    "Supervisor": "JEIZIANE",
+    "Codigo_Produto": "100320",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1143777",
@@ -5490,6 +5805,21 @@
     "Mes_Ano": "Junho/2026"
   },
   {
+    "NF": "1148735",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "58.673.812/0001-88",
+    "Razao": "JOSE RAIMUNDO PIRES DOS SANTOS",
+    "CIDADE": "BAIXA GRANDE",
+    "Quantidade": 2,
+    "Vlr_Total": 25.38,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100030",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1135535",
     "Grupo": "Vendas",
     "Cnpj_CPF": "58.673.812/0001-88",
@@ -5503,6 +5833,21 @@
     "Codigo_Produto": "100030",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148735",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "58.673.812/0001-88",
+    "Razao": "JOSE RAIMUNDO PIRES DOS SANTOS",
+    "CIDADE": "BAIXA GRANDE",
+    "Quantidade": 3,
+    "Vlr_Total": 16.17,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1135535",
@@ -5547,6 +5892,21 @@
     "Supervisor": "LUCAS SILVA",
     "Codigo_Produto": "100412",
     "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1148735",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "58.673.812/0001-88",
+    "Razao": "JOSE RAIMUNDO PIRES DOS SANTOS",
+    "CIDADE": "BAIXA GRANDE",
+    "Quantidade": 4,
+    "Vlr_Total": 16.36,
+    "Vendedor": "131",
+    "Nome_Vendedor": "EDENILSON FERREIRA",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100320",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
     "Mes_Ano": "Agosto/2026"
   },
   {
@@ -5773,6 +6133,21 @@
     "Codigo_Produto": "100092",
     "Nome_Produto": "COCO DO VALE COCO RALADO DESIDRATADO 100G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148645",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "09.263.426/0002-93",
+    "Razao": "DISTRIBUIDORA DE ALIMENTOS JACOBINA LTDA",
+    "CIDADE": "Jacobina",
+    "Quantidade": 12,
+    "Vlr_Total": 29.88,
+    "Vendedor": "91",
+    "Nome_Vendedor": "CLARA ARAUJO",
+    "Supervisor": "LUCAS SILVA",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1145429",
@@ -7695,6 +8070,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148451",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "32.965.769/0001-30",
+    "Razao": "EVANEIDE DA CRUZ SANTOS LTDA",
+    "CIDADE": "ANTAS",
+    "Quantidade": 12,
+    "Vlr_Total": 29.88,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100412",
+    "Nome_Produto": "SABOR NORDESTE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1128949",
     "Grupo": "Vendas",
     "Cnpj_CPF": "33.948.319/0001-00",
@@ -7785,6 +8175,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148431",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "44.663.389/0001-20",
+    "Razao": "BELLE DISTRIBUIÇÃO DE ALIMENTOS LTDA",
+    "CIDADE": "ANTAS",
+    "Quantidade": 12,
+    "Vlr_Total": 152.28,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100030",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1128957",
     "Grupo": "Vendas",
     "Cnpj_CPF": "44.663.389/0001-20",
@@ -7798,6 +8203,21 @@
     "Codigo_Produto": "100030",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148431",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "44.663.389/0001-20",
+    "Razao": "BELLE DISTRIBUIÇÃO DE ALIMENTOS LTDA",
+    "CIDADE": "ANTAS",
+    "Quantidade": 24,
+    "Vlr_Total": 129.36,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1128957",
@@ -8203,6 +8623,36 @@
     "Codigo_Produto": "106513",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 1L",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1149434",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "26.132.023/0001-43",
+    "Razao": "A SANTOS COMERCIAL DE ALIMENTOS LTDA",
+    "CIDADE": "CATU",
+    "Quantidade": 12,
+    "Vlr_Total": 152.28,
+    "Vendedor": "139",
+    "Nome_Vendedor": "TADEU SANTOS",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100030",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1149434",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "26.132.023/0001-43",
+    "Razao": "A SANTOS COMERCIAL DE ALIMENTOS LTDA",
+    "CIDADE": "CATU",
+    "Quantidade": 12,
+    "Vlr_Total": 64.68,
+    "Vendedor": "139",
+    "Nome_Vendedor": "TADEU SANTOS",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100023",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1143377",
@@ -8745,13 +9195,13 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
-    "NF": "1112774",
+    "NF": "1118747",
     "Grupo": "Vendas",
     "Cnpj_CPF": "19.607.541/0001-00",
     "Razao": "OLIVEIRA MERCEARIA - ME",
     "CIDADE": "Inhambupe",
-    "Quantidade": 2,
-    "Vlr_Total": 238.5,
+    "Quantidade": 1,
+    "Vlr_Total": 119.25,
     "Vendedor": "139",
     "Nome_Vendedor": "TADEU SANTOS",
     "Supervisor": "RODRIGO PINHEIRO",
@@ -8760,13 +9210,13 @@
     "Mes_Ano": "Junho/2026"
   },
   {
-    "NF": "1118747",
+    "NF": "1112774",
     "Grupo": "Vendas",
     "Cnpj_CPF": "19.607.541/0001-00",
     "Razao": "OLIVEIRA MERCEARIA - ME",
     "CIDADE": "Inhambupe",
-    "Quantidade": 1,
-    "Vlr_Total": 119.25,
+    "Quantidade": 2,
+    "Vlr_Total": 238.5,
     "Vendedor": "139",
     "Nome_Vendedor": "TADEU SANTOS",
     "Supervisor": "RODRIGO PINHEIRO",
@@ -9885,7 +10335,7 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1130766",
+    "NF": "1129656",
     "Grupo": "Vendas",
     "Cnpj_CPF": "14.736.874/0001-16",
     "Razao": "JOSE DOMINGOS",
@@ -9900,7 +10350,7 @@
     "Mes_Ano": "Julho/2026"
   },
   {
-    "NF": "1129656",
+    "NF": "1130766",
     "Grupo": "Vendas",
     "Cnpj_CPF": "14.736.874/0001-16",
     "Razao": "JOSE DOMINGOS",
@@ -10065,6 +10515,21 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
+    "NF": "1148438",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "59.282.352/0001-20",
+    "Razao": "59.282.352 JESSIKA DE OLIVEIRA ANDRADE",
+    "CIDADE": "PARIPIRANGA",
+    "Quantidade": 12,
+    "Vlr_Total": 152.28,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100030",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1142327",
     "Grupo": "Vendas",
     "Cnpj_CPF": "59.282.352/0001-20",
@@ -10108,6 +10573,21 @@
     "Codigo_Produto": "100122",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148349",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "06.038.751/0001-83",
+    "Razao": "FRANCISCO COSTA DE ARAUJO",
+    "CIDADE": "QUIJINGUE",
+    "Quantidade": 12,
+    "Vlr_Total": 32.28,
+    "Vendedor": "128",
+    "Nome_Vendedor": "GILDASIO GAMA",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1135856",
@@ -10320,6 +10800,21 @@
     "Mes_Ano": "Agosto/2026"
   },
   {
+    "NF": "1148900",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "30.367.088/0001-45",
+    "Razao": "REGINALDO PINTO DOS SANTOS",
+    "CIDADE": "Ribeira do Pombal",
+    "Quantidade": 12,
+    "Vlr_Total": 152.28,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100030",
+    "Nome_Produto": "COCO DO VALE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1146433",
     "Grupo": "Vendas",
     "Cnpj_CPF": "30.367.088/0001-45",
@@ -10365,6 +10860,21 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148897",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "40.173.350/0001-74",
+    "Razao": "PANIFICADORA E SUPERMERCADO PAO SEM DROGA",
+    "CIDADE": "Ribeira do Pombal",
+    "Quantidade": 12,
+    "Vlr_Total": 111.0,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100337",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 500ML",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1121834",
     "Grupo": "Vendas",
     "Cnpj_CPF": "40.173.350/0001-74",
@@ -10393,6 +10903,21 @@
     "Codigo_Produto": "100023",
     "Nome_Produto": "COCO DO VALE LEITE DE COCO 200ML",
     "Mes_Ano": "Julho/2026"
+  },
+  {
+    "NF": "1148897",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "40.173.350/0001-74",
+    "Razao": "PANIFICADORA E SUPERMERCADO PAO SEM DROGA",
+    "CIDADE": "Ribeira do Pombal",
+    "Quantidade": 24,
+    "Vlr_Total": 98.16,
+    "Vendedor": "72",
+    "Nome_Vendedor": "HENRIQUE RAMON",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100320",
+    "Nome_Produto": "SABOR NORDESTE LEITE DE COCO 200ML",
+    "Mes_Ano": "Agosto/2026"
   },
   {
     "NF": "1116628",
@@ -10785,6 +11310,51 @@
     "Mes_Ano": "Julho/2026"
   },
   {
+    "NF": "1148318",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "07.585.602/0001-05",
+    "Razao": "JORGE LUIS SANTOS DE SANTANA",
+    "CIDADE": "TUCANO",
+    "Quantidade": 24,
+    "Vlr_Total": 138.96,
+    "Vendedor": "128",
+    "Nome_Vendedor": "GILDASIO GAMA",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100115",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 100G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1148318",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "07.585.602/0001-05",
+    "Razao": "JORGE LUIS SANTOS DE SANTANA",
+    "CIDADE": "TUCANO",
+    "Quantidade": 24,
+    "Vlr_Total": 152.4,
+    "Vendedor": "128",
+    "Nome_Vendedor": "GILDASIO GAMA",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100092",
+    "Nome_Produto": "COCO DO VALE COCO RALADO DESIDRATADO 100G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
+    "NF": "1148318",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "07.585.602/0001-05",
+    "Razao": "JORGE LUIS SANTOS DE SANTANA",
+    "CIDADE": "TUCANO",
+    "Quantidade": 48,
+    "Vlr_Total": 129.12,
+    "Vendedor": "128",
+    "Nome_Vendedor": "GILDASIO GAMA",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
+  },
+  {
     "NF": "1126850",
     "Grupo": "Vendas",
     "Cnpj_CPF": "41.236.109/0001-00",
@@ -10858,5 +11428,20 @@
     "Codigo_Produto": "100112",
     "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 24X100G",
     "Mes_Ano": "Junho/2026"
+  },
+  {
+    "NF": "1148336",
+    "Grupo": "Vendas",
+    "Cnpj_CPF": "03.604.574/0001-67",
+    "Razao": "A.L. CARDOSO VIEIRA DO UAUA",
+    "CIDADE": "UAUA",
+    "Quantidade": 48,
+    "Vlr_Total": 129.12,
+    "Vendedor": "3",
+    "Nome_Vendedor": "CAIO VINICIUS",
+    "Supervisor": "RODRIGO PINHEIRO",
+    "Codigo_Produto": "100122",
+    "Nome_Produto": "COCO DO VALE COCO RALADO UMIDO ADOC 50G",
+    "Mes_Ano": "Agosto/2026"
   }
 ]
